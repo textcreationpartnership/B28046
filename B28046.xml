@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Charles Peter his famous head-pill. Which certainly cureth the scurvie, and dropsie, taketh away all pains of the head, cleanseth the stomach ...</title>
+            <author>Peter, Charles.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28046</idno><idno type="EEBO-CITATION">99888672</idno>
+  <idno type="VID">195880</idno>
+  <idno type="EEBO-PROQUEST">2240903471</idno>
+  
+            <idno type="STC">Wing P1682A</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.112.f.9[75]</idno>
+            <idno type="PROQUEST">ocm99888672</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888672e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28046)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195880)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:1[76])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Charles Peter his famous head-pill. Which certainly cureth the scurvie, and dropsie, taketh away all pains of the head, cleanseth the stomach ...</title>
+                  <author>Peter, Charles.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1670 and 1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint information from Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Scurvy --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_quack_medicine">
+            <pb facs="tcp:195880:1"/>
+            <pb facs="tcp:195880:1"/>
+            <head>
+               <hi>CHARLES PETER</hi> His Famous HEAD-PILL.</head>
+            <p>Which certainly cureth the SCURVIE, and DROPSIE, taketh away all PAINS of the HEAD, cleanseth the STOMACH, provoketh an <hi>Appetite,</hi> and helpeth <hi>Digestion:</hi> Is also a Great PRESERVATIVE to NATURE. It helpeth those that are troubled with the GOUT, is most admirable for the CHOLICK, brings away GRAVEL, and gives Ease in the STONE. It destroys WORMS in Persons of <hi>all Ages,</hi> and cureth those that are troubled with SHORTNESS of BREATH, or PAINS in the SIDE. It is most admirable for MELANCHOLY Persons, and for those that are troubled with FAINTING FITS. It not onely cures, but prevents CONVULSION and APOPLECTICK FITS. Those Persons that DRINK <hi>hard,</hi> (most of which are troubled with SICK QUALMES and VOMITING) I do assure all such, they will find much Benefit by my PILLS.</p>
+            <p>WOMEN that are troubled with STOPPAGES, or with FUMES arrising from the SPLEEN or WOMB, or that are subject to WEAKNESS of the BACK, are certainly relieved by these PILLS.</p>
+            <p>In a word, This PILL is a most rare <hi>Medicine</hi> in most <hi>Diseases</hi> incident to <hi>Mankind,</hi> being most proper for all <hi>Families</hi> to be provided with; for it may be safely taken by <hi>any</hi> Person, of <hi>any Age</hi> or <hi>Constitution.</hi>
+            </p>
+            <p>And for those Persons that use the SEAS, there is nothing so convenient as this <hi>incompara<g ref="char:EOLhyphen"/>ble</hi> PILL; for One Dose, taken once in Twenty days, preserves the Body in Health: for it resists all <hi>putrefaction,</hi> and will continue good Seven years and more.</p>
+            <p>
+               <hi>The Manner of taking these</hi> Pills <hi>is-thus.</hi> A Child of Three or Four years old may take One Pill every third day: One of Seven or Eight years old, may take One Pill every morn<g ref="char:EOLhyphen"/>ing. A Man or Woman may begin with One Pill over-night, and Two the next morning, and may according to the strength of the Body increase the Dose to Two or Three Pills at night, and Three the next morning: Onely observe to begin with a small Dose, and so to increase it as thy strength will allow. They may be taken in a spoonful of Beer, Ale or Wine, or in a stew'd Prune, or the pulp of an Apple, although they be most easie to take by themselves; for they are very small, and not ill tasted. They work the most pleasantly of any Physick whatsoever, opening the Pores of the Skin, and causing a breathing Sweat, if the Patient lie in Bed while they are working. They break away <hi>Wind</hi> powerfully, cause much Urine, and word gently by <hi>Stool.</hi> And as they are the <hi>most pleasant,</hi> so am I sure they are the <hi>best,</hi> and yet the <hi>cheapest Physick</hi> that can be taken; for the PRICE of each BOX, which contains <hi>Twelve Pills,</hi> is but <hi>One Shilling.</hi>
+            </p>
+            <p>Those that take them, may safely go abroad about their Business, and need not observe any <hi>Diet;</hi> yet if they now and then take a Draught of <hi>warm Ale</hi> or <hi>Posset-drink,</hi> or <hi>Broth,</hi> it will help the working of them.</p>
+            <list>
+               <head>
+                  <hi>My</hi> PILLS <hi>are sold by the</hi> Persons <hi>following:</hi> Viz.</head>
+               <item>Mr. Thomas Burrell Bookseller, at the Golden Ball under St. Dunstans Church in Fleet-street.</item>
+               <item>Mr. Robert Paske Stationer, in the Piazza on the North-side of the Royal Exchange.</item>
+               <item>Joe's Coffee-house, called the Blue-coat Coffee-house, in Sweetings-Alley, near the Royal Exchange.</item>
+               <item>Mr. Henry Bennet Cutler, in St. Bartholomew-lane.</item>
+               <item>Mr. Richard Smith, at the Marygold over against the Kings-Bench in Southwark.</item>
+               <item>Mr. Joseph Scarlet Mereer, over against the Middle-Row in Holborn.</item>
+               <item>Mr. Towne's Coffee-house at Billingsgate.</item>
+               <item>Mr. Bisby's Coffee-house in Tower-street, near Min<g ref="char:EOLhyphen"/>cing-lane.</item>
+               <item>Mr. King Oyleman, near St. Clements Church-yard, in the Strand.</item>
+               <item>Mr. John Moore Distiller, at the Green-man and Still near Charing-cross.</item>
+            </list>
+            <p>And at my own House in St. MARTINS-LANE, near LONG-ACRE, over against the Sign of the CASTLE, where I shall be ready to give my Advice gratis.</p>
+         </div>
+      </body>
+      <back>
+         <div type="advert_for_quack_medicine">
+            <p>That <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>rable Medicine called <hi>LUCATELLA's BALSAM</hi> is faithfully prepared by me, and to be sold at my House.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
